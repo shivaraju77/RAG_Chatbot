@@ -1,3 +1,6 @@
+"""
+Chatbot using LLMs and RAG by Shiva Raju
+"""
 from langchain_huggingface import HuggingFaceEndpoint
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
