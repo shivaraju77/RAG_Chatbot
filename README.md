@@ -1,4 +1,4 @@
-# RAG_Chatbot
+# RAG_Chatbot by Shiva Raju
 
 This application demonstrates how to use LLMs and RAG to upload a document and query contents of the document. 
 
